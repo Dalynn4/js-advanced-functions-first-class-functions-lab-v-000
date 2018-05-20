@@ -7,7 +7,7 @@
    return newarr
 }
 
- function returnlastTwoDrivers (array) {
+ function returnLastTwoDrivers (array) {
    const newarr = []
    newarr.push(array[-1])
    newarr.push(array[-2])
