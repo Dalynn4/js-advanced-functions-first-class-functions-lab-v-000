@@ -10,6 +10,6 @@
  function returnLastTwoDrivers (array) {
    const newarr = []
    newarr.push(array[array.length - 1])
-   newarr.push(array[array-2])
+   newarr.push(array[array.length - 2])
    return newarr
 }
