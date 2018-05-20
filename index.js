@@ -5,3 +5,5 @@
    newarr.push(array[1])
    return newarr
 }
+
+const first = returnFirstTwoDrivers
