@@ -14,4 +14,4 @@
    return newarr
 }
 
-const selectingDrivers = [returnFirstTwoDrivers]
+const selectingDrivers = [returnFirstTwoDrivers()]
