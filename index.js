@@ -7,7 +7,7 @@
    return newarr
 }
 
- function returnLastTwoDrivers (array) {
+ const burp = function returnLastTwoDrivers (array) {
    const newarr = []
    newarr.push(array[array.length - 2])
    newarr.push(array[array.length - 1])
