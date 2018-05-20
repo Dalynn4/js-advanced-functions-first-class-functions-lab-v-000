@@ -6,4 +6,4 @@
    return newarr
 }
 
-const first = returnFirstTwoDrivers
+const first = returnFirstTwoDrivers()
