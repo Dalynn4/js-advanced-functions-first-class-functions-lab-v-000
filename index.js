@@ -1,4 +1,7 @@
 // Code your solution in this file!
  function returnFirstTwoDrivers (array) {
-  return array[0] + array[1]
+   const newarr = []
+   newarr.push(array[0])
+   newarr.push(array[1])
+   return newarr
 }
