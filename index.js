@@ -8,5 +8,6 @@ const first = function (array) {
 
 
   function returnFirstTwoDrivers (array) {
-   first
+   first(array)
+  }
 
